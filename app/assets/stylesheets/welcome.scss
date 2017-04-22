@@ -47,7 +47,7 @@
 }
 
 #callouts {
-	background-image: image-url("callout_background.jpg");
+	background-image: url("callout_background.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -74,7 +74,7 @@
 	}
 }
 
-#bottom_cta {
+#bottom-cta {
 	text-align: center;
 	padding: 7.5rem 0;
 	h2 {
