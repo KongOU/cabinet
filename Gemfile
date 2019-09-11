@@ -20,7 +20,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 # gem 'capistrano-rails', group: :development
 
-gem 'devise', '~> 4.2', '>= 4.2.1'
+gem 'devise', '~> 4.7'
 gem 'simple_form', '~> 3.4'
 gem 'haml', '~> 4.0', '>= 4.0.7'
 
